@@ -23,7 +23,7 @@ I'm a frontend web developer proficient in React, JavaScript, Tailwind CSS, and 
 
 
 
-## My Projects
+## Favoured Projects
 Here are some of the projects I'm currently working on or have completed:
 
 | Project Name         | Repository Link                                                    | Live Preview Link                |
