@@ -21,7 +21,30 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png' alt='React' height='40'>](https://your-react-link)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png' alt='JavaScript' height='40'>](https://your-javascript-link)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Icon_Tailwind_CSS.svg/2560px-Icon_Tailwind_CSS.svg.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdridoyali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-ridoy-islam-7a3b39280//)  
+
+## Projects
+
+Here are some of the projects I'm currently working on or have completed:
+
+1. [Project Name](link-to-project) - Brief description of the project.
+2. [Project Name](link-to-project) - Brief description of the project.
+3. [Project Name](link-to-project) - Brief description of the project.
+
+## Open Source Contributions
+
+I actively contribute to open source projects. Here are some notable contributions:
+
+1. [Contribution Name](link-to-contribution) - Brief description of the contribution.
+2. [Contribution Name](link-to-contribution) - Brief description of the contribution.
+3. [Contribution Name](link-to-contribution) - Brief description of the contribution.
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdridoyali) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-ridoy-islam-7a3b39280//)  
 
