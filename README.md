@@ -1,6 +1,6 @@
 ### Hi there 👋, MD RIDOY ALI
 #### MERN Stack Developer | Competitive Programmer
-![MERN Stack Developer | Competitive Programmer](https://github.com/Ashik-Himel/Ashik-Himel/blob/main/banner.png?raw=true)
+![MERN Stack Developer | Competitive Programmer](https://scontent.fccu9-1.fna.fbcdn.net/v/t39.30808-6/409192539_1021478182488612_4734927205960495052_n.jpg?stp=dst-jpg_p960x960&_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeEuH61-dIxRkyCIw3HvAzwRltK6iKEzzw6W0rqIoTPPDl4wBBXRG2HgMIYD7mIcpLA-XGykulExnGTFEcYRx-5G&_nc_ohc=-I5QFugv9wsAX9Hs6TX&_nc_ht=scontent.fccu9-1.fna&oh=00_AfDbnFvmw2jouldWwffUeqST98fTjnY10pMf3Yd-a60Abg&oe=6578E85E)
 
 Crafting scalable web application with the MERN stack (React, JS, Tailwind, Node.js, Express, MongoDB). Let's shape the future of the web together!
 
