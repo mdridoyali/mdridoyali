@@ -26,8 +26,8 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 [<img src='https://i.ibb.co/C7hG2n7/download-1-removebg-preview.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
 
 
-Here are some of the projects I'm currently working on or have completed:
 # My Projects
+Here are some of the projects I'm currently working on or have completed:
 
 | Project Name         | Repository Link                                                    | Live Preview Link                |
 | -----------------    | ---------------------------------                                  | --------------------------------- |
@@ -38,7 +38,7 @@ Here are some of the projects I'm currently working on or have completed:
 
 # GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?mdridoyali=mdridoyali&show_icons=true&theme=radical)
 
 
 
