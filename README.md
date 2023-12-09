@@ -1,7 +1,7 @@
 
 ![MERN Stack Developer | Competitive Programmer](https://scontent.fccu9-1.fna.fbcdn.net/v/t39.30808-6/409192539_1021478182488612_4734927205960495052_n.jpg?stp=dst-jpg_p960x960&_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeEuH61-dIxRkyCIw3HvAzwRltK6iKEzzw6W0rqIoTPPDl4wBBXRG2HgMIYD7mIcpLA-XGykulExnGTFEcYRx-5G&_nc_ohc=-I5QFugv9wsAX9Hs6TX&_nc_ht=scontent.fccu9-1.fna&oh=00_AfDbnFvmw2jouldWwffUeqST98fTjnY10pMf3Yd-a60Abg&oe=6578E85E)
 ### Hello👋, I'm Md Ridoy Ali
-#### MERN Stack Web Developer
+#### MERN Frontend Web Developer
 I'm a frontend web developer proficient in React, JavaScript, Tailwind CSS, and basics of Node.js/Express.js. With a focus on creating sleek, responsive interfaces, I bring creativity and technical expertise to deliver engaging user experiences. Passionate about crafting seamless web applications that marry functionality with aesthetic appeal.
 
 Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
@@ -30,19 +30,13 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 ## Projects
 
 Here are some of the projects I'm currently working on or have completed:
+# My Projects
 
-1. [Project Name](link-to-project) - Brief description of the project.
-2. [Project Name](link-to-project) - Brief description of the project.
-3. [Project Name](link-to-project) - Brief description of the project.
-
-## Open Source Contributions
-
-I actively contribute to open source projects. Here are some notable contributions:
-
-1. [Contribution Name](link-to-contribution) - Brief description of the contribution.
-2. [Contribution Name](link-to-contribution) - Brief description of the contribution.
-3. [Contribution Name](link-to-contribution) - Brief description of the contribution.
-
+| Project Name      | Repository Link                  | Live Preview Link                |
+| ----------------- | --------------------------------- | --------------------------------- |
+| Project 1         | [Repository 1](link-to-repo-1)    | [Live Preview 1](link-to-preview-1) |
+| Project 2         | [Repository 2](link-to-repo-2)    | [Live Preview 2](link-to-preview-2) |
+| Project 3         | [Repository 3](link-to-repo-3)    | [Live Preview 3](link-to-preview-3) |
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdridoyali) 
