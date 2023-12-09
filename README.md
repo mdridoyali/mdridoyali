@@ -34,9 +34,9 @@ Here are some of the projects I'm currently working on or have completed:
 
 | Project Name      | Repository Link                  | Live Preview Link                |
 | ----------------- | --------------------------------- | --------------------------------- |
-| Project 1         | [Repository 1](link-to-repo-1)    | [Live Preview 1](link-to-preview-1) |
-| Project 2         | [Repository 2](link-to-repo-2)    | [Live Preview 2](link-to-preview-2) |
-| Project 3         | [Repository 3](link-to-repo-3)    | [Live Preview 3](link-to-preview-3) |
+| TechZone         | [Repository 1](link-to-repo-1)    | [Live Preview 1](link-to-preview-1) |
+| MediCamp             | [Repository 2](link-to-repo-2)    | [Live Preview 2](link-to-preview-2) |
+| Writes World         | [Repository 3](link-to-repo-3)    | [Live Preview 3](link-to-preview-3) |
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdridoyali) 
