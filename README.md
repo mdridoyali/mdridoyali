@@ -6,7 +6,8 @@ Crafting scalable web application with the MERN stack (React, JS, Tailwind, Node
 
 Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 
-- 🌱 I’m currently learning Next.js 
+-  I’m currently learning Next.js 
+-  How to reach me mdridoyislamr@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdridoyali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-ridoy-islam-7a3b39280//)  
