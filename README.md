@@ -25,12 +25,12 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png' alt='React' height='40'>](https://your-react-link)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png' alt='JavaScript' height='40'>](https://your-javascript-link)
 [<img src='https://i.ibb.co/C7hG2n7/download-1-removebg-preview.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
-[<img src='https://i.imgur.com/eU2bgd7.png' alt='Node.js' height='40'>](https://your-nodejs-link)
-[<img src='https://i.imgur.com/BxVil9P.png' alt='Express.js' height='40'>](https://your-expressjs-link)
-[<img src='https://i.imgur.com/iFNiqku.png' alt='MongoDB' height='40'>](https://your-mongodb-link)
-[<img src='https://i.imgur.com/bFG9FQx.png' alt='Firebase' height='40'>](https://your-firebase-link)
+[<img src='https://i.ibb.co/ynLJbrG/express.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
 
 
+https://i.ibb.co/ynLJbrG/express.png
+https://i.ibb.co/9wxGfS8/mongodb.png
+https://i.ibb.co/fkGXVL2/NODE2.png
 
 # My Projects
 Here are some of the projects I'm currently working on or have completed:
