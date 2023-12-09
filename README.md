@@ -35,8 +35,8 @@ Here are some of the projects I'm currently working on or have completed:
 | Project Name         | Repository Link                  | Live Preview Link                |
 | -----------------    | --------------------------------- | --------------------------------- |
 | TechZone             | [Repo Link](https://github.com/mdridoyali/techZone-client-10)   | [Live Preview](https://assignment-10-6741d.web.app/) |
-| MediCamp             | [Repository 2](link-to-repo-2)    | [Live Preview 2](link-to-preview-2) |
-| Writes World         | [Repository 3](link-to-repo-3)    | [Live Preview 3](link-to-preview-3) |
+| MediCamp             | [Repository 2](https://github.com/mdridoyali/medi-camp-client-12)    | [Live Preview]( https://medicamp-603c8.web.app/) |
+| Writes World         | [Repository 3](https://github.com/mdridoyali/writes-world-client-11)    | [Live Preview 3]( https://ass-11-jwt.web.app) |
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdridoyali) 
