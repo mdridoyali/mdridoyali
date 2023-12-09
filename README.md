@@ -11,10 +11,27 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 
 ## Technologies I Work With
 
- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+ ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+ ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+ ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+ ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+ ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+
+ - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&labelColor=white&style=flat-square)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&labelColor=black&style=flat-square)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&labelColor=white&style=flat-square)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&labelColor=white&style=flat-square)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&labelColor=white&style=flat-square)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&labelColor=white&style=flat-square)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&labelColor=white&style=flat-square)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&labelColor=white&style=flat-square)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&labelColor=black&style=flat-square)
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdridoyali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-ridoy-islam-7a3b39280//)  
