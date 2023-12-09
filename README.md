@@ -38,7 +38,7 @@ Here are some of the projects I'm currently working on or have completed:
 
 # GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?mdridoyali=mdridoyali&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdridoyali&show_icons=true&theme=radical)
 
 
 
