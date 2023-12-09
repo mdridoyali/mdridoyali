@@ -10,7 +10,7 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 -  How to reach me mdridoyislamr@gmail.com
 
 ## Skills and Technologies I Work With
-<p align="center">
+
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
@@ -21,10 +21,11 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
  
-</p>
+
 
 
 ## Tools and Technologies
+<p align="center">
 [<img src='https://i.ibb.co/QnyFCsT/html.webp' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
 [<img src='https://i.ibb.co/cJ6X3gT/CSS3-logo-svg.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
 [<img src='https://i.ibb.co/C7hG2n7/download-1-removebg-preview.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
@@ -37,7 +38,7 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 [<img src='https://i.ibb.co/NWXxmyk/figma.jpg' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
 [<img src='https://i.ibb.co/NZGYmyf/github.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
 [<img src='https://i.ibb.co/C2t9Bd2/vs-code.jpg' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
-
+</p>
 
 
 
