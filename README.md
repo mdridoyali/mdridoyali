@@ -50,8 +50,7 @@ Here are some of the projects I'm currently working on or have completed:
 <img src='https://i.ibb.co/fkGXVL2/NODE2.png' alt='Tailwind CSS'  height='60'  margin='15px'>
 <img src='https://i.ibb.co/J3XbBq2/firebase.png)' alt='Tailwind CSS'  height='60'  margin='15px'>
 <img src='https://i.ibb.co/NWXxmyk/figma.jpg' alt='Tailwind CSS'  height='60'  margin='15px'>
-<img src='https://i.ibb.co/NZGYmyf/github.png' alt='Tailwind CSS'  height='60'  margin='15px''>![Uploading Audition.svg…]()
-
+<img src='https://i.ibb.co/NZGYmyf/github.png' alt='Tailwind CSS'  height='60'  margin='15px''>
 <img src='https://i.ibb.co/C2t9Bd2/vs-code.jpg' alt='Tailwind CSS'  height='60'  margin='15px'>
 <img src='https://i.ibb.co/yRJY0b8/download.png' alt='Tailwind CSS'  height='60'  margin='15px'>
 </p>
