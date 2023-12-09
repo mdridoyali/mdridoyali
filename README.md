@@ -26,18 +26,18 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 
 ## Tools and Technologies
 <p align="center">
-<img src='https://i.ibb.co/QnyFCsT/html.webp' alt='Tailwind CSS' height='60' margin='10px'>
-<img src='https://i.ibb.co/cJ6X3gT/CSS3-logo-svg.png' alt='Tailwind CSS' height='60'  margin='10px'>
-<img src='https://i.ibb.co/C7hG2n7/download-1-removebg-preview.png' alt='Tailwind CSS' height='40'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png' alt='React' height='40'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png' alt='JavaScript' height='40'>
-<img src='https://i.ibb.co/ynLJbrG/express.png' alt='Tailwind CSS' height='40'>
-<img src='https://i.ibb.co/9wxGfS8/mongodb.png' alt='Tailwind CSS' height='40'>
-<img src='https://i.ibb.co/fkGXVL2/NODE2.png' alt='Tailwind CSS' height='40'>
-<img src='https://i.ibb.co/J3XbBq2/firebase.png)' alt='Tailwind CSS' height='40'>
-<img src='https://i.ibb.co/NWXxmyk/figma.jpg' alt='Tailwind CSS' height='40'>
-<img src='https://i.ibb.co/NZGYmyf/github.png' alt='Tailwind CSS' height='40'>
-<img src='https://i.ibb.co/C2t9Bd2/vs-code.jpg' alt='Tailwind CSS' height='40'>
+<img src='https://i.ibb.co/QnyFCsT/html.webp' alt='Tailwind CSS' height='60' margin='15px'>
+<img src='https://i.ibb.co/cJ6X3gT/CSS3-logo-svg.png' alt='Tailwind CSS' height='60'  margin='15px'>
+<img src='https://i.ibb.co/C7hG2n7/download-1-removebg-preview.png' alt='Tailwind CSS'  height='60'  margin='15px'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png' alt='React'  height='60'  margin='15px'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png' alt='JavaScript'  height='60'  margin='15px'>
+<img src='https://i.ibb.co/ynLJbrG/express.png' alt='Tailwind CSS'  height='60'  margin='15px'>
+<img src='https://i.ibb.co/9wxGfS8/mongodb.png' alt='Tailwind CSS'  height='60'  margin='15px'>
+<img src='https://i.ibb.co/fkGXVL2/NODE2.png' alt='Tailwind CSS'  height='60'  margin='15px'>
+<img src='https://i.ibb.co/J3XbBq2/firebase.png)' alt='Tailwind CSS'  height='60'  margin='15px'>
+<img src='https://i.ibb.co/NWXxmyk/figma.jpg' alt='Tailwind CSS'  height='60'  margin='15px'>
+<img src='https://i.ibb.co/NZGYmyf/github.png' alt='Tailwind CSS'  height='60'  margin='15px''>
+<img src='https://i.ibb.co/C2t9Bd2/vs-code.jpg' alt='Tailwind CSS'  height='60'  margin='15px'>
 </p>
 
 
