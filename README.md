@@ -26,9 +26,6 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 [<img src='https://i.ibb.co/C7hG2n7/download-1-removebg-preview.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
 
 
-
-## Projects
-
 Here are some of the projects I'm currently working on or have completed:
 # My Projects
 
@@ -36,7 +33,13 @@ Here are some of the projects I'm currently working on or have completed:
 | -----------------    | ---------------------------------                                  | --------------------------------- |
 | TechZone             | [Repo Link](https://github.com/mdridoyali/techZone-client-10)      | [Live Preview](https://assignment-10-6741d.web.app/) |
 | MediCamp             | [Repo Link](https://github.com/mdridoyali/medi-camp-client-12)     | [Live Preview](https://medicamp-603c8.web.app/) |
-| Writes World         | [Repo Link](https://github.com/mdridoyali/writes-world-client-11)  | [Live Preview 3](https://ass-11-jwt.web.app/) |
+| Writes World         | [Repo Link](https://github.com/mdridoyali/writes-world-client-11)  | [Live Preview](https://ass-11-jwt.web.app/) |
+
+
+# GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdridoyali) 
