@@ -7,7 +7,7 @@ I'm a frontend web developer proficient in React, JavaScript, Tailwind CSS, and 
 -  I’m currently learning Next.js 
 -  How to reach me mdridoyislamr@gmail.com
 
-## Skills and Technologies I Work With
+## Skills and technologies i work with
 
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
@@ -22,10 +22,7 @@ I'm a frontend web developer proficient in React, JavaScript, Tailwind CSS, and 
 
 
 
-
-
-
-# My Projects
+## My Projects
 Here are some of the projects I'm currently working on or have completed:
 
 | Project Name         | Repository Link                                                    | Live Preview Link                |
@@ -35,7 +32,7 @@ Here are some of the projects I'm currently working on or have completed:
 | Writes World         | [Repo Link](https://github.com/mdridoyali/writes-world-client-11)  | [Live Preview](https://ass-11-jwt.web.app/) |
 
 
-# GitHub Stats
+## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdridoyali&show_icons=true&theme=radical)
 
@@ -55,9 +52,4 @@ Here are some of the projects I'm currently working on or have completed:
 <img src='https://i.ibb.co/NZGYmyf/github.png' alt='Tailwind CSS'  height='60'  margin='15px''>
 <img src='https://i.ibb.co/C2t9Bd2/vs-code.jpg' alt='Tailwind CSS'  height='60'  margin='15px'>
 </p>
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdridoyali) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-ridoy-islam-7a3b39280//)  
 
