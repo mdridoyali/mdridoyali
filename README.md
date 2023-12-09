@@ -1,6 +1,6 @@
 ### Hi there 👋, MD RIDOY ALI
 #### MERN Stack Developer | Competitive Programmer
-(https://i.ibb.co/K6hwqJ9/Black-and-Blue-Futuristic-Technology-Banner-Landscape.png)
+https://i.ibb.co/K6hwqJ9/Black-and-Blue-Futuristic-Technology-Banner-Landscape.png
 
 Crafting scalable web application with the MERN stack (React, JS, Tailwind, Node.js, Express, MongoDB). Let's shape the future of the web together!
 
