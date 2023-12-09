@@ -23,7 +23,7 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png' alt='React' height='40'>](https://your-react-link)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png' alt='JavaScript' height='40'>](https://your-javascript-link)
-[<img src='https://i.ibb.co/K6hwqJ9/Black-and-Blue-Futuristic-Technology-Banner-Landscape.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
+[<img src='https://i.ibb.co/C7hG2n7/download-1-removebg-preview.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
 
 
 
