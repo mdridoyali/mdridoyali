@@ -32,9 +32,9 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 Here are some of the projects I'm currently working on or have completed:
 # My Projects
 
-| Project Name      | Repository Link                  | Live Preview Link                |
-| ----------------- | --------------------------------- | --------------------------------- |
-| TechZone         | [Repository 1](link-to-repo-1)    | [Live Preview 1](link-to-preview-1) |
+| Project Name         | Repository Link                  | Live Preview Link                |
+| -----------------    | --------------------------------- | --------------------------------- |
+| TechZone             | [Repo Link]([link-to-repo-1](https://github.com/mdridoyali/techZone-client-10))    | [Live Preview 1]([link-to-preview-1](https://assignment-10-6741d.web.app/)) |
 | MediCamp             | [Repository 2](link-to-repo-2)    | [Live Preview 2](link-to-preview-2) |
 | Writes World         | [Repository 3](link-to-repo-3)    | [Live Preview 3](link-to-preview-3) |
 
