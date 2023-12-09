@@ -20,10 +20,15 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+ 
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png' alt='React' height='40'>](https://your-react-link)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png' alt='JavaScript' height='40'>](https://your-javascript-link)
 [<img src='https://i.ibb.co/C7hG2n7/download-1-removebg-preview.png' alt='Tailwind CSS' height='40'>](https://your-tailwind-css-link)
+[<img src='https://i.imgur.com/eU2bgd7.png' alt='Node.js' height='40'>](https://your-nodejs-link)
+[<img src='https://i.imgur.com/BxVil9P.png' alt='Express.js' height='40'>](https://your-expressjs-link)
+[<img src='https://i.imgur.com/iFNiqku.png' alt='MongoDB' height='40'>](https://your-mongodb-link)
+
 
 
 # My Projects
