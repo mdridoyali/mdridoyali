@@ -28,6 +28,7 @@ Skills:  JAVASCRIPT / REACT / TAILWIND / NODE.JS / EXPRESS / MONGODB
 [<img src='https://i.imgur.com/eU2bgd7.png' alt='Node.js' height='40'>](https://your-nodejs-link)
 [<img src='https://i.imgur.com/BxVil9P.png' alt='Express.js' height='40'>](https://your-expressjs-link)
 [<img src='https://i.imgur.com/iFNiqku.png' alt='MongoDB' height='40'>](https://your-mongodb-link)
+[<img src='https://i.imgur.com/bFG9FQx.png' alt='Firebase' height='40'>](https://your-firebase-link)
 
 
 
