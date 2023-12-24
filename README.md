@@ -1,5 +1,5 @@
 
-![MERN Stack Developer | Competitive Programmer](https://i.ibb.co/fGKCt17/Black-and-Blue-Futuristic-Technology-Banner-Landscape-1.png)
+![Front End Developer | Competitive Programmer](https://i.ibb.co/sHBpkhS/Black-and-Blue-Futuristic-Technology-Banner-Landscape.jpg)
 <h1 align="center"> Hello👋, I'm Md Ridoy Ali</h1>
 <h3 align="center"> Frontend Web Developer</h3>
 
