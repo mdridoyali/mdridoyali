@@ -1,5 +1,5 @@
 
-![MERN Stack Developer | Competitive Programmer](https://www.canva.com/design/DAF2dct9XIU/WfT77jUCsv8_9Asx7Z2aTg/edit?utm_content=DAF2dct9XIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MERN Stack Developer | Competitive Programmer](https://i.ibb.co/fGKCt17/Black-and-Blue-Futuristic-Technology-Banner-Landscape-1.png)
 <h1 align="center"> Hello👋, I'm Md Ridoy Ali</h1>
 <h3 align="center"> Frontend Web Developer</h3>
 
