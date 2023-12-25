@@ -3,7 +3,7 @@
 <h1 align="center"> Hello👋, I'm Md Ridoy Ali</h1>
 <h3 align="center"> Frontend Web Developer</h3>
 
-I'm a frontend web developer proficient in React, JavaScript, Tailwind CSS, and basics of Node.js/Express.js. With a focus on creating sleek, responsive interfaces, I bring creativity and technical expertise to deliver engaging user experiences. Passionate about crafting seamless web applications that marry functionality with aesthetic appeal.
+I'm a front-end web developer proficient in React, JavaScript, Tailwind CSS, and the basics of Node.js/Express.js. With a focus on creating sleek, responsive interfaces, I bring creativity and technical expertise to deliver engaging user experiences. Passionate about crafting seamless web applications that have functionality with aesthetic appeal.
 
 -  I’m currently learning Next.js 
 -  How to reach me mdridoyislamr@gmail.com
